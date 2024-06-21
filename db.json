@@ -1,0 +1,32 @@
+{
+  "students": [
+    { "id": 1, "name": "李雪梅", "gender": "女","age":18 ,  "course": [
+    { "id": 1, "title": "数据传输实验", "type": "实验课" ,"score":85.6},
+    { "id": 2, "title": "数字图像处理", "type": "专业选修" ,"score":76.6},
+    { "id": 3, "title": "C++程序设计", "type": "专业选修","score":90.9 },
+    { "id": 4, "title": "计算机网络与通信", "type": "专业必修" ,"score":85},
+    { "id": 5, "title": "通信原理", "type": "专业必修" ,"score":81.1}
+  ]},
+    { "id": 2, "name": "王明", "gender": "男","age":19 ,  "course": [
+
+    { "id": 1, "title": "计算机网络与通信", "type": "专业必修" ,"score":95},
+    { "id": 2, "title": "通信原理", "type": "专业必修" ,"score":71.1}
+  ]},
+    { "id": 3, "name": "刘洋", "gender": "男","age":18 ,  "course": [
+
+    { "id": 1, "title": "C++程序设计", "type": "专业选修","score":95.9 }
+
+  ]},
+        { "id": 4, "name": "韩寒", "gender": "男","age":25 ,  "course": [
+
+    { "id": 1, "title": "计算机网络与通信", "type": "专业必修" ,"score":85},
+    { "id": 2, "title": "数据库应用系统开发", "type": "专业必修" ,"score":81.1}
+  ]},
+        { "id": 5, "name": "张雪涵", "gender": "女","age":19 ,  "course": [
+    { "id": 1, "title": "数据传输实验", "type": "实验课" ,"score":75.5},
+    { "id": 2, "title": "数字图像处理", "type": "专业选修" ,"score":76.6}
+
+  ]}
+  ],
+  "profile": { "name": "typicode" }
+}
